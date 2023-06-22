@@ -15,13 +15,7 @@
 <a href="https://github.com/solohackerzorg"><img width=550 src="https://github-profile-trophy.vercel.app/?username=solohackerzorg&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/solohackerzorg"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square"></a>
-
-<h3><b><i>Contact Author :</i></b></h3>
-<a href="https://github.com/solohackerzorg"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
-<a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="png_pic/facebook.png" /></a>
-<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" /><br></a>
-
+<a href="https://github.com/solohackerzorg"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square"><br></a>
  # 💻 Tech Stack:
 <h3 align="center">
 
@@ -30,3 +24,8 @@
 <br/>  
 
 <table><tr><td valign="top" width="33%">
+<h3><b><i>Contact Author :</i></b></h3>
+<a href="https://github.com/solohackerzorg"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
+<a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="png_pic/facebook.png" /></a>
+<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" /><br></a>
+
