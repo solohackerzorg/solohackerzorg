@@ -20,7 +20,7 @@
 <h3><b><i>Contact Author :</i></b></h3>
 <a href="https://github.com/solohackerzorg"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
 <a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="png_pic/facebook.png" /></a>
-<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" /></a>
+<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" /><br></a>
 
  # 💻 Tech Stack:
 <h3 align="center">
