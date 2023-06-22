@@ -9,7 +9,7 @@
 <h3><b><i> About me :</i></b></h3>
 <li> >💻 <i>Living in DreamLand</i></li>
 <li> >💻 <i>Coding is Love</i></li>
-<li> >🐍 <i>Learning Python, C++, Sql and JS</i></li>
+<li> >🐍 <i>Learning Python, C++, Rust, Sql and JS</i></li>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/solohackerzorg"><img width=550 src="https://github-profile-trophy.vercel.app/?username=solohackerzorg&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
