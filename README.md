@@ -1,8 +1,8 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/solohackerzorg">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula" /></a>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/solohackerzorg"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula" />
+<a href="https://github.com/solohackerzorg"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula" />
 </a></p>
 <h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
