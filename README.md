@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://github.com/solohackerzorg">
-    <img height="165" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula" />
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula&hide_title=true" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/solohackerzorg">
-    <img height="165" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula&layout=compact" />
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula&layout=compact" />
   </a>
 </p>
+
 
 <h2 align="center"><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 
