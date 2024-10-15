@@ -20,17 +20,17 @@
   <li> 🐍 <i>Learning Python, C++, Rust, SQL, and JS</i></li>
 </ul>
 
-<h3 align="center"><b><i>🏆 Github Statistics :</i></b></h3>
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
 <p align="center">
   <a href="https://github.com/solohackerzorg">
     <img width="550" src="https://github-profile-trophy.vercel.app/?username=solohackerzorg&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" />
   </a>
 </p>
 
-<h3 align="center"><b><i>🏆 Profile Statistics :</i></b></h3>
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <p align="center">
   <a href="https://github.com/solohackerzorg">
-    <img height="25" title="Profile Views" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square" />
+    <img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square" /><br>
   </a>
 </p>
 
