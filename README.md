@@ -1,11 +1,17 @@
-<!-- Github README -->
-<p align="center"><a href="https://github.com/solohackerzorg">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/solohackerzorg"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula" />
-</a></p>
-<h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
-<b><i>💻 I am a Student & a part-time Programmer</i></b>
+<p align="center">
+  <a href="https://github.com/solohackerzorg">
+    <img height="165" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorg&show_icons=true&theme=dracula" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/solohackerzorg">
+    <img height="165" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solohackerzorg&theme=dracula&layout=compact" />
+  </a>
+</p>
+
+<h2 align="center"><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
+
+<p align="center"><b><i>💻 I am a Student & a part-time Programmer</i></b></p>
+
 <h3><b><i> About me :</i></b></h3>
 <ul>
   <li> 💻 <i>Living in DreamLand</i></li>
@@ -14,10 +20,19 @@
 </ul>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/solohackerzorg"><img width=550 src="https://github-profile-trophy.vercel.app/?username=solohackerzorg&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<p align="center">
+  <a href="https://github.com/solohackerzorg">
+    <img width="550" src="https://github-profile-trophy.vercel.app/?username=solohackerzorg&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" />
+  </a>
+</p>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/solohackerzorg"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square"><br></a>
+<p align="center">
+  <a href="https://github.com/solohackerzorg">
+    <img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorg&color=blueviolet&style=flat-square" /><br>
+  </a>
+</p>
+
 <h3><b> 💻 Tech Stack:</b></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -30,8 +45,14 @@
 </div>
 
 <h4><b> 💻 Contact Author :</b></h4>
-<div>
-  <a href="https://github.com/solohackerzorg"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
-  <a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="png_pic/facebook.png" /></a>
-  <a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" /></a>
+<div align="center">
+  <a href="https://github.com/solohackerzorg">
+    <img title="Github" alt="Github" width="30px" src="png_pic/github.png" />
+  </a>
+  <a href="https://fb.com/foundersolohackerzorg">
+    <img title="Facebook" alt="Facebook" width="30px" src="png_pic/facebook.png" />
+  </a>
+  <a href="https://m.me/foundersolohackerzorg">
+    <img title="Messenger" alt="Messenger" width="30px" src="png_pic/messenger.png" />
+  </a>
 </div>
